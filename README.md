@@ -1,16 +1,22 @@
-# baby_store_app
+# Baby Store APP
 
-A new Flutter project.
+The Baby Store app is meticulously crafted with a focus on clean code principles and the MVVM architectural pattern, ensuring a well-structured, maintainable, and scalable codebase. Leveraging a carefully curated selection of packages, the app delivers a seamless and user-friendly shopping experience for all things baby.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Screen Shots
+  Splash Screen                 |   Home Screen        |
+:-------------------------:|:-------------------------:|
+![](https://raw.githubusercontent.com/elqady4/baby_store_app_/main/screenshots/splash.png)|![](https://raw.githubusercontent.com/elqady4/baby_store_app_/main/screenshots/home.png)|
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Future Plans
+The app is planned to include additional features such as:
+
+-- User authentication and authorization <br>
+-- Advanced search and filtering capabilities <br>
+-- User profile management <br>
+-- Offline support for cached data <br>
+
+## Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/{elqady4}/count.svg)
